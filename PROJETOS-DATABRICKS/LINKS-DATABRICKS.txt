@@ -1,0 +1,30 @@
+LINK DOS PROJETOS EM DATABRICKS 
+
+PYSPARK 1 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/1956012268428906/command/2476575125930103
+
+PYSPARK 2 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/3090726131003701/command/3090726131003702
+
+PYSPARK 3 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/937541830478214/command/2476575125930106
+
+PYSPARK 4 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/3494392166044300/command/3494392166044301
+
+PYSPARK 5 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/3494392166044315/command/3494392166044325
+
+PYSPARK 6 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/3385930100607530/command/3385930100607531
+
+PYSPARK 7 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/3494392166044326/command/3494392166044334
+
+PYSPARK 8 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/3494392166044335/command/3494392166044344
+
+PYSPARK 9 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/1539779625915453/command/1539779625915464
+
+PYSPARK 10 -https://community.cloud.databricks.com/?o=2896351333814582#notebook/1539779625915465/command/1539779625915471
+
+PYSPARK 11 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/1539779625915479/command/1539779625915487
+
+PYSPARK 12 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/1539779625915488/command/1539779625915489
+
+PYSPARK 13 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/3521111454145258/command/3521111454145259
+
+PYSPARK 14 - https://community.cloud.databricks.com/?o=2896351333814582#notebook/1514571570472868/command/1514571570472880
+
